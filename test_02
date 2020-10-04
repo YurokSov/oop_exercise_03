@@ -1,0 +1,5 @@
+square 0 0 10000 10000
+rectangle 0 0 10000 10000
+triangle 1 1 0 0
+triangle -1 -1 0 0
+triangle 9 9 10 10
